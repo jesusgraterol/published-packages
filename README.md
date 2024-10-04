@@ -80,7 +80,7 @@ The [`sw-builder`](https://www.npmjs.com/package/sw-builder) package automates t
 
 ### argv Utils
 
-The [`argv-utils`](https://github.com/jesusgraterol/argv-utils) package is a lightweight library for Node.js that simplifies working with command-line arguments passed to your scripts. It streamlines the process of accessing and managing arguments from `process.argv` property.
+The [`argv-utils`](https://www.npmjs.com/package/argv-utils) package is a lightweight library for Node.js that simplifies working with command-line arguments passed to your scripts. It streamlines the process of accessing and managing arguments from `process.argv` property.
 
 [View Source](https://github.com/jesusgraterol/argv-utils)
 
