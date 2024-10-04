@@ -12,7 +12,11 @@ This repository houses all of my publicly released [npm](https://www.npmjs.com/)
 
 ### localkit
 
-...
+Boost your web development workflow with [`localkit`](https://www.npmjs.com/package/localkit), an open-source CLI that simplifies common tasks like password generation, Base64URL encoding, UUID creation, OTP management, encryption, hashing, YouTube downloads, favicon creation, PWA asset generation, and Material Icon installation. Save time and focus on building amazing web apps!
+
+[View Source](https://github.com/jesusgraterol/localkit)
+
+
 
 
 
