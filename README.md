@@ -40,6 +40,14 @@ The [`api-response-utils`](https://www.npmjs.com/package/api-response-utils) pac
 
 
 
+### Web Utils Kit
+
+The [`web-utils-kit`](https://www.npmjs.com/package/web-utils-kit) package provides a collection of well-tested and thoroughly documented utility functions for various web development needs. Each function adheres to a strict coding style and best practices to ensure consistency and maintainability.
+
+[View Source](https://github.com/jesusgraterol/web-utils-kit)
+
+
+
 ### Error Message Utils
 
 The [`error-message-utils`](https://www.npmjs.com/package/error-message-utils) package simplifies error management in your web applications and RESTful APIs. It ensures consistent and scalable handling of error messages, saving you time and effort.  Moreover, it gives you the ability to assign custom error codes so all possible cases can be handled accordingly.
