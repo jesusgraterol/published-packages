@@ -10,7 +10,7 @@ This repository houses all of my publicly released [npm](https://www.npmjs.com/)
 
 ## Command-Line Interfaces (CLIs)
 
-### localkit
+#### localkit
 
 Boost your web development workflow with [`localkit`](https://www.npmjs.com/package/localkit), an open-source CLI that simplifies common tasks like password generation, Base64URL encoding, UUID creation, OTP management, encryption, hashing, favicon creation, PWA asset generation, and Material Icon installation. Save time and focus on building amazing web apps!
 
@@ -24,7 +24,7 @@ Boost your web development workflow with [`localkit`](https://www.npmjs.com/pack
 
 ## Node.js & Browser
 
-### BigNumber Utils
+#### BigNumber Utils
 
 The [`bignumber-utils`](https://www.npmjs.com/package/bignumber-utils) package empowers developers to effortlessly perform accurate and reliable decimal and non-decimal arithmetic in JavaScript, leveraging the robust foundation of the [bignumber.js](https://github.com/MikeMcl/bignumber.js) library.
 
@@ -32,7 +32,7 @@ The [`bignumber-utils`](https://www.npmjs.com/package/bignumber-utils) package e
 
 
 
-### API Response Utils
+#### API Response Utils
 
 The [`api-response-utils`](https://www.npmjs.com/package/api-response-utils) package streamlines RESTful API data exchange by introducing a standardized data structure for HTTP response bodies. This structure simplifies client-side data handling, promoting consistency and readability in your API interactions.
 
@@ -40,7 +40,7 @@ The [`api-response-utils`](https://www.npmjs.com/package/api-response-utils) pac
 
 
 
-### Web Utils Kit
+#### Web Utils Kit
 
 The [`web-utils-kit`](https://www.npmjs.com/package/web-utils-kit) package provides a collection of well-tested and thoroughly documented utility functions for various web development needs. Each function adheres to a strict coding style and best practices to ensure consistency and maintainability.
 
@@ -48,7 +48,7 @@ The [`web-utils-kit`](https://www.npmjs.com/package/web-utils-kit) package provi
 
 
 
-### Error Message Utils
+#### Error Message Utils
 
 The [`error-message-utils`](https://www.npmjs.com/package/error-message-utils) package simplifies error management in your web applications and RESTful APIs. It ensures consistent and scalable handling of error messages, saving you time and effort.  Moreover, it gives you the ability to assign custom error codes so all possible cases can be handled accordingly.
 
@@ -62,7 +62,7 @@ The [`error-message-utils`](https://www.npmjs.com/package/error-message-utils) p
 
 ## Node.js
 
-### Filesystem Utils Sync
+#### Filesystem Utils Sync
 
 Streamline synchronous file system interactions in your Node.js projects with the lightweight [`fs-utils-sync`](https://www.npmjs.com/package/fs-utils-sync) package. It provides a collection of well-defined utility functions that enforce consistency across projects, ensuring an unified approach to file system operations.
 
@@ -70,7 +70,7 @@ Streamline synchronous file system interactions in your Node.js projects with th
 
 
 
-### Fetch Request Node
+#### Fetch Request Node
 
 The [`fetch-request-node`](https://www.npmjs.com/package/fetch-request-node) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the Fetch API, providing a clean and concise interface for your API interactions.
 
@@ -78,7 +78,7 @@ The [`fetch-request-node`](https://www.npmjs.com/package/fetch-request-node) pac
 
 
 
-### Service Worker Builder
+#### Service Worker Builder
 
 The [`sw-builder`](https://www.npmjs.com/package/sw-builder) package automates the creation of your Application's Service Worker, which pre-caches your build. This leads to a better overall performance and enables users to access your PWA without an Internet connection.
 
@@ -86,7 +86,7 @@ The [`sw-builder`](https://www.npmjs.com/package/sw-builder) package automates t
 
 
 
-### argv Utils
+#### argv Utils
 
 The [`argv-utils`](https://www.npmjs.com/package/argv-utils) package is a lightweight library for Node.js that simplifies working with command-line arguments passed to your scripts. It streamlines the process of accessing and managing arguments from `process.argv` property.
 
@@ -94,7 +94,7 @@ The [`argv-utils`](https://www.npmjs.com/package/argv-utils) package is a lightw
 
 
 
-### TypeScript Library Builder
+#### TypeScript Library Builder
 
 The [`ts-lib-builder`](https://www.npmjs.com/package/ts-lib-builder) package is designed to simplify the build process for your TypeScript libraries and APIs. It combines the essential steps of compilation and minification into a single, efficient workflow.
 
@@ -108,7 +108,7 @@ The [`ts-lib-builder`](https://www.npmjs.com/package/ts-lib-builder) package is 
 
 ## Browser
 
-### GUI Environment
+#### GUI Environment
 
 The [`gui-environment`](https://www.npmjs.com/package/gui-environment) package is a command-line tool that simplifies managing environment variables for your application. Easily set up different configurations based on your build mode (development, staging or production) for a smooth development workflow.
 
@@ -116,14 +116,14 @@ The [`gui-environment`](https://www.npmjs.com/package/gui-environment) package i
 
 
 
-### Service Worker Service
+#### Service Worker Service
 
 The [`sw-service`](https://www.npmjs.com/package/sw-service) package streamlines the registration of Service Workers on client devices, simplifying the process of delivering enhanced functionality and offline capabilities through Progressive Web Apps. This package offers a user-friendly approach to managing PWA installations, providing a seamless experience for both developers and end users.
 
 [View Source](https://github.com/jesusgraterol/sw-service)
 
 
-### Fetch Request Browser
+#### Fetch Request Browser
 
 The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browser) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the Fetch API, providing a clean and concise interface for your API interactions.
 
@@ -131,7 +131,7 @@ The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browse
 
 
 
-### Browser Style Normalizer
+#### Browser Style Normalizer
 
 The [`browser-style-normalizer`](https://www.npmjs.com/package/browser-style-normalizer) is a stylesheet that resets all the browser-built-in styles, guaranteeing consistency across all major browsers.
 
@@ -145,7 +145,7 @@ The [`browser-style-normalizer`](https://www.npmjs.com/package/browser-style-nor
 
 ## WebFont
 
-### Ubuntu
+#### Ubuntu
 
 The [`webfont-ubuntu`](https://www.npmjs.com/package/webfont-ubuntu) package simplifies self-hosting the [Ubuntu Font](https://fonts.google.com/specimen/Ubuntu) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.
 
@@ -153,7 +153,7 @@ The [`webfont-ubuntu`](https://www.npmjs.com/package/webfont-ubuntu) package sim
 
 
 
-### Montserrat
+#### Montserrat
 
 The [`webfont-montserrat`](https://www.npmjs.com/package/webfont-montserrat) package simplifies self-hosting the [Montserrat Font](https://fonts.google.com/specimen/Montserrat) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.
 
@@ -161,7 +161,7 @@ The [`webfont-montserrat`](https://www.npmjs.com/package/webfont-montserrat) pac
 
 
 
-### Roboto
+#### Roboto
 
 The [`webfont-roboto`](https://www.npmjs.com/package/webfont-roboto) package simplifies self-hosting the [Roboto Font](https://fonts.google.com/specimen/Roboto) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.
 
@@ -169,7 +169,7 @@ The [`webfont-roboto`](https://www.npmjs.com/package/webfont-roboto) package sim
 
 
 
-### Builder
+#### Builder
 
 The [`webfont-builder`](https://www.npmjs.com/package/webfont-builder) package is a simple script which purpose is to help build Web Fonts so they can be easily self-hosted in production-grade applications.
 
