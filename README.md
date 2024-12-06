@@ -12,7 +12,7 @@ This repository houses all of my publicly released [npm](https://www.npmjs.com/)
 
 #### localkit
 
-Boost your web development workflow with [`localkit`](https://www.npmjs.com/package/localkit), an open-source CLI that simplifies common tasks like password generation, Base64URL encoding, UUID creation, OTP management, encryption, hashing, favicon creation, PWA asset generation, and Material Icon installation. Save time and focus on building amazing web apps!
+The [`localkit`](https://www.npmjs.com/package/localkit) package is an open-source command-line interface (CLI) designed to streamline your web development workflow. It provides a suite of tools for common tasks, including secure password generation, Base64URL encoding/decoding, UUID creation, OTP management, encryption, hashing, favicon creation, PWA asset generation, and Material Icon installation.
 
 [View Source](https://github.com/jesusgraterol/localkit)
 
@@ -64,7 +64,7 @@ The [`error-message-utils`](https://www.npmjs.com/package/error-message-utils) p
 
 #### Filesystem Utils Sync
 
-Streamline synchronous file system interactions in your Node.js projects with the lightweight [`fs-utils-sync`](https://www.npmjs.com/package/fs-utils-sync) package. It provides a collection of well-defined utility functions that enforce consistency across projects, ensuring an unified approach to file system operations.
+The [`fs-utils-sync`](https://www.npmjs.com/package/fs-utils-sync) package provides a collection of well-tested, synchronous file system utility functions. It promotes consistency and readability across projects by providing a unified approach to common file operations, saving you development time and improving code quality.
 
 [View Source](https://github.com/jesusgraterol/fs-utils-sync)
 
