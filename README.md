@@ -8,20 +8,6 @@ This repository houses all of my publicly released [npm](https://www.npmjs.com/)
 
 <br/>
 
-## Command-Line Interfaces (CLIs)
-
-#### localkit
-
-The [`localkit`](https://www.npmjs.com/package/localkit) package is an open-source command-line interface (CLI) designed to streamline your web development workflow. It provides a suite of tools for common tasks, including secure password generation, Base64URL encoding/decoding, UUID creation, OTP management, encryption, hashing, favicon creation, PWA asset generation, and Material Icon installation.
-
-[View Source](https://github.com/jesusgraterol/localkit)
-
-
-
-
-
-<br/>
-
 ## Node.js & Browser
 
 #### BigNumber Utils
@@ -136,6 +122,20 @@ The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browse
 The [`browser-style-normalizer`](https://www.npmjs.com/package/browser-style-normalizer) is a stylesheet that resets all the browser-built-in styles, guaranteeing consistency across all major browsers.
 
 [View Source](https://github.com/jesusgraterol/browser-style-normalizer)
+
+
+
+
+
+<br/>
+
+## Command-Line Interfaces (CLIs)
+
+#### localkit
+
+The [`localkit`](https://www.npmjs.com/package/localkit) package is an open-source command-line interface (CLI) designed to streamline your web development workflow. It provides a suite of tools for common tasks, including secure password generation, Base64URL encoding/decoding, UUID creation, OTP management, encryption, hashing, favicon creation, PWA asset generation, and Material Icon installation.
+
+[View Source](https://github.com/jesusgraterol/localkit)
 
 
 
