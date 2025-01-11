@@ -74,7 +74,7 @@ The [`sw-builder`](https://www.npmjs.com/package/sw-builder) package automates t
 
 #### AES-256 Async
 
-The [`aes256-async`](https://github.com/jesusgraterol/aes256-async) package allows developers to easily encrypt and decrypt data by making use of the AES-256 specification. It exposes syncrhonous and asynchronous functions to avoid blocking the main thread. Moreover, the secret can be of any size because it is hashed using the Secure Hash Algorithm 2 (SHA-256).
+The [`aes256-async`](https://www.npmjs.com/package/aes256-async) package allows developers to easily encrypt and decrypt data by making use of the AES-256 specification. It exposes syncrhonous and asynchronous functions to avoid blocking the main thread. Moreover, the secret can be of any size because it is hashed using the Secure Hash Algorithm 2 (SHA-256).
 
 [View Source](https://github.com/jesusgraterol/aes256-async)
 
