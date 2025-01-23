@@ -117,6 +117,13 @@ The [`sw-service`](https://www.npmjs.com/package/sw-service) package streamlines
 [View Source](https://github.com/jesusgraterol/sw-service)
 
 
+#### Browser KeyVal Stores
+
+The [`browser-keyval-stores`](https://www.npmjs.com/package/browser-keyval-stores) package offers a clean and unified API to interact with browser storage mechanisms (localStorage, sessionStorage, and indexedDB) from your applications. It streamlines development and eliminates the need for browser-specific code when working with client-side data storage.
+
+[View Source](https://github.com/jesusgraterol/browser-keyval-stores)
+
+
 #### Fetch Request Browser
 
 The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browser) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the Fetch API, providing a clean and concise interface for your API interactions.
