@@ -117,6 +117,13 @@ The [`sw-service`](https://www.npmjs.com/package/sw-service) package streamlines
 [View Source](https://github.com/jesusgraterol/sw-service)
 
 
+#### Browser Cache Async
+
+The [`browser-cache-async`](https://www.npmjs.com/package/browser-cache-async) package provides a highly customizable, asynchronous caching system for client-side data management. Leveraging the power of the browser's IndexedDB, it enables efficient storage and retrieval of API responses, significantly reducing network latency and improving application performance.
+
+[View Source](https://github.com/jesusgraterol/browser-cache-async)
+
+
 #### Browser KeyVal Stores
 
 The [`browser-keyval-stores`](https://www.npmjs.com/package/browser-keyval-stores) package offers a clean and unified API to interact with browser storage mechanisms (localStorage, sessionStorage, and indexedDB) from your applications. It streamlines development and eliminates the need for browser-specific code when working with client-side data storage.
