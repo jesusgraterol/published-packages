@@ -58,7 +58,7 @@ The [`fs-utils-sync`](https://www.npmjs.com/package/fs-utils-sync) package provi
 
 #### Fetch Request Node
 
-The [`fetch-request-node`](https://www.npmjs.com/package/fetch-request-node) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the Fetch API, providing a clean and concise interface for your API interactions.
+The [`fetch-request-node`](https://www.npmjs.com/package/fetch-request-node) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), providing a clean and concise interface for your API interactions.
 
 [View Source](https://github.com/jesusgraterol/fetch-request-node)
 
@@ -74,7 +74,7 @@ The [`sw-builder`](https://www.npmjs.com/package/sw-builder) package automates t
 
 #### AES-256 Async
 
-The [`aes256-async`](https://www.npmjs.com/package/aes256-async) package allows developers to easily encrypt and decrypt data by making use of the AES-256 specification. It exposes syncrhonous and asynchronous functions to avoid blocking the main thread. Moreover, the secret can be of any size because it is hashed using the Secure Hash Algorithm 2 (SHA-256).
+The [`aes256-async`](https://www.npmjs.com/package/aes256-async) package allows developers to easily encrypt and decrypt data by making use of the [AES-256 specification](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard). It exposes syncrhonous and asynchronous functions to avoid blocking the main thread. Moreover, the secret can be of any size because it is hashed using the Secure Hash Algorithm 2 ([SHA-256](https://en.wikipedia.org/wiki/SHA-2)).
 
 [View Source](https://github.com/jesusgraterol/aes256-async)
 
@@ -104,7 +104,7 @@ The [`ts-lib-builder`](https://www.npmjs.com/package/ts-lib-builder) package is 
 
 #### GUI Environment
 
-The [`gui-environment`](https://www.npmjs.com/package/gui-environment) package is a command-line tool that simplifies managing environment variables for your application. Easily set up different configurations based on your build mode (development, staging or production) for a smooth development workflow.
+The [`gui-environment`](https://www.npmjs.com/package/gui-environment) package is a command-line tool that simplifies managing environment variables for your application. Easily set up different configurations based on your build mode (`development`, `staging` or `production`) for a smooth development workflow.
 
 [View Source](https://github.com/jesusgraterol/gui-environment)
 
@@ -117,23 +117,32 @@ The [`sw-service`](https://www.npmjs.com/package/sw-service) package streamlines
 [View Source](https://github.com/jesusgraterol/sw-service)
 
 
+
+#### Clipboard Service
+
+The [`clipboard-service`](https://www.npmjs.com/package/clipboard-service) package is a lightweight, easy-to-use library that simplifies interaction with the browser’s [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API). With `ClipboardService`, you can easily read from and write to the clipboard with just a few lines of code. It provides a straightforward, promise-based API for copying and pasting text or other content, allowing you to focus on building your application without worrying about clipboard intricacies.
+
+[View Source](https://github.com/jesusgraterol/clipboard-service)
+
+
+
 #### Browser Cache Async
 
-The [`browser-cache-async`](https://www.npmjs.com/package/browser-cache-async) package provides a highly customizable, asynchronous caching system for client-side data management. Leveraging the power of the browser's IndexedDB, it enables efficient storage and retrieval of API responses, significantly reducing network latency and improving application performance.
+The [`browser-cache-async`](https://www.npmjs.com/package/browser-cache-async) package provides a highly customizable, asynchronous caching system for client-side data management. Leveraging the power of the browser's [`IndexedDB`](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), it enables efficient storage and retrieval of API responses, significantly reducing network latency and improving application performance.
 
 [View Source](https://github.com/jesusgraterol/browser-cache-async)
 
 
 #### Browser KeyVal Stores
 
-The [`browser-keyval-stores`](https://www.npmjs.com/package/browser-keyval-stores) package offers a clean and unified API to interact with browser storage mechanisms (localStorage, sessionStorage, and indexedDB) from your applications. It streamlines development and eliminates the need for browser-specific code when working with client-side data storage.
+The [`browser-keyval-stores`](https://www.npmjs.com/package/browser-keyval-stores) package offers a clean and unified API to interact with browser storage mechanisms ([`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage), [`sessionStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage), and [`IndexedDB`](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)) from your applications. It streamlines development and eliminates the need for browser-specific code when working with client-side data storage.
 
 [View Source](https://github.com/jesusgraterol/browser-keyval-stores)
 
 
 #### Fetch Request Browser
 
-The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browser) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the Fetch API, providing a clean and concise interface for your API interactions.
+The [`fetch-request-browser`](https://www.npmjs.com/package/fetch-request-browser) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), providing a clean and concise interface for your API interactions.
 
 [View Source](https://github.com/jesusgraterol/fetch-request-browser)
 
