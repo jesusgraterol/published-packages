@@ -56,6 +56,22 @@ The [`fs-utils-sync`](https://www.npmjs.com/package/fs-utils-sync) package provi
 
 
 
+#### Filesystem Utils Async
+
+The [`fs-utils-async`](https://www.npmjs.com/package/fs-utils-async) package provides the same file system utility functions as `fs-utils-sync`, name for name, as asynchronous functions built on `node:fs/promises`. Use it in request paths and concurrent code, where blocking the event loop isn't acceptable.
+
+[View Source](https://github.com/jesusgraterol/fs-utils-async)
+
+
+
+#### Node Process Utils
+
+The [`node-process-utils`](https://www.npmjs.com/package/node-process-utils) package runs child processes with bounded time and output, and stops the process trees it owns. It returns exit codes instead of throwing them, and rejects only when a command can't start, times out, writes too much output or is aborted, after stopping the process and its descendants.
+
+[View Source](https://github.com/jesusgraterol/node-process-utils)
+
+
+
 #### Fetch Request Node
 
 The [`fetch-request-node`](https://www.npmjs.com/package/fetch-request-node) package makes working with external APIs simple and efficient. This intuitive wrapper leverages the power of the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), providing a clean and concise interface for your API interactions.
